@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderemove&label=Profile%20views&color=0e75b6&style=flat" alt="coderemove" /> </p>
 
-- 🔭 I’m currently working on **analysis of iPSYHC ADHD**
+- 🔭 I’m currently working on **analysis of iPSYHC ADHD datasets**
 
 - 🌱 I’m currently learning **Quarto, html, css, polars, and manjaro.**
 
