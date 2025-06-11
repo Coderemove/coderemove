@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **analysis of iPSYHC ADHD**
 
-- 🌱 I’m currently learning **Quarto, html, css, polars[gpu], and manjaro.**
+- 🌱 I’m currently learning **Quarto, html, css, polars, and manjaro.**
 
 - 💬 Ask me about **python, R, and SQL.**
 
